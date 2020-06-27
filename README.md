@@ -38,7 +38,6 @@ $ php artisan key:generate
 In your CLI direct to your project folder and execute the following commands:
 ```
 $ php artisan serve
-$ npm run watch
 ```
 Laravel development server starts at: http://127.0.0.1:8000
 ```
